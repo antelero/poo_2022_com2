@@ -1,7 +1,8 @@
 #include <iostream>
 #include <vector>
 using namespace std;
-//Standard Template Library (STL) es una colección de estructuras de datos genéricas y algoritmos escritos en C++
+//Standard Template Library (STL) es una colección de estructuras de datos genéricas
+//                                          y algoritmos escritos en C++
 int main()
 {
     vector<int> eje;

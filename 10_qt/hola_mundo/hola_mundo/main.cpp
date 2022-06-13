@@ -3,6 +3,7 @@
 #include <QApplication>
 #include <QLabel>
 
+https://github.com/antelero/poo_2022_com2
 
 int main(int argc, char *argv[])
 {
